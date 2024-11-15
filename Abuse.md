@@ -1,4 +1,4 @@
-==**Abuse using winrs**==
+<3==**Abuse using winrs**==<3
 check if we can execute commands on dcorp-mgmt server and if the winrm port is open: (do this in Jenkins session)
 ```
 	winrs -r:dcorp-mgmt cmd /c "set computername && set username"
